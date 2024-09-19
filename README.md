@@ -33,7 +33,12 @@ Agile: Iterative and incremental approach focused on flexibility, collaboration,
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 # Answer:
-   
+    Software Developer: Responsible for writing code and implementing software solutions.
+    Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+    Project Manager: Oversees the planning, execution, and delivery of software projects.
+    System Architect: Designs the overall structure and architecture of software systems.
+    UI/UX Designer: Creates user interfaces and designs user experiences for software applications.
+
   
     
 
