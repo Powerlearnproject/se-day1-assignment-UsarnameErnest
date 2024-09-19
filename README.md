@@ -38,7 +38,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
     Project Manager: Oversees the planning, execution, and delivery of software projects.
     System Architect: Designs the overall structure and architecture of software systems.
     UI/UX Designer: Creates user interfaces and designs user experiences for software applications.
-   
+  
     
 
 
